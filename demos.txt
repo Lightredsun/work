@@ -1,1 +1,3 @@
 Demo: Aishah Ibrahim A.
+Age: 17
+Gender: Female
